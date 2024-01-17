@@ -39,7 +39,8 @@ Focused on histograms, boxplots and correlation plots for numerical variables, b
  - The 'age' boxplot presents a relatively symmetrical distribution, indicating a balanced age range across the workforce. 
  
 
-![image](https://github.com/isabhinav/HRExploration1/assets/130937665/d0d08dc0-b6f7-4298-b8d1-397995ea1fe3)
+![image](https://github.com/isabhinav/HRExploration1/assets/130937665/dec37102-1bab-48ee-be23-3c6681b39e14)
+
 
 
 ##### _Correlation Plots_
