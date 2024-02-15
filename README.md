@@ -94,8 +94,11 @@ Focused on histograms, boxplots and correlation plots for numerical variables, b
 
 ## Next Steps
 - Compensation Review: Conduct a deeper analysis of the compensation data to ensure equitable pay practices across all demographics, including gender, race, and age. Benchmarking against industry standards could provide additional insights into the company's competitive positioning in the talent market.
+
 - Diversity Initiatives: Develop targeted recruitment and development programs to enhance diversity, particularly in racial and ethnic representation. 
+
 - Recruitment Planning: Leverage the insights from hiring seasonality to streamline the recruitment process. 
+
 - Geographic Spread: Assess the implications of the geographic employee distribution on operational and strategic goals.
 
 Our exploratory analysis reveals a multifaceted view of the company's workforce, with insights that are crucial for fostering an equitable, diverse, and balanced work environment. The analysis presented here lays the groundwork for deeper exploration and data-driven HR decisions.
