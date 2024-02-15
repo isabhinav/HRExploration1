@@ -1,5 +1,5 @@
 # Workforce Analytics
-#### _Unveiling Insights to Foster Workforce Sustainability and Development_
+#### _Unveiling insights to foster workforce sustainability and development_
 
 
 ## Introduction
@@ -80,10 +80,27 @@ Focused on histograms, boxplots and correlation plots for numerical variables, b
 
 
 
-## Takeaways/Observations/Summary
+## Observations and Takeaways
+- Compensation Structure: The analysis seems to indicate a structured compensation system with delineation across job levels. The multimodal distribution of salaries and the strong correlation between salary, bonus, and level number suggest that compensation is tightly coupled with the hierarchical position within the company. 
+
+- Age Distribution: The skew towards younger employees could point to robust junior-level recruitment or a gap in attracting or retaining more experienced professionals. This demographic structure could impact the company's strategic planning. Initiatives such as flexible work arrangements and mentorship programs could be effective in attracting and retaining a more youthful workforce.
+
+- Diversity and Inclusion: While the gender distribution appears balanced, the race distribution highlights a significant opportunity for the company to bolster its diversity initiatives. 
+
+- Hiring Seasonality: The clear seasonality in hiring suggests that recruitment efforts are likely driven by strategic business cycles, project demands, and graduate influxes. Understanding the seasonality in hiring and its underlying causes (e.g., end of fiscal year budget allocations, commencement of major projects, or periods following graduation ceremonies) can help forecast future hiring needs (quantity and types of roles) that will be needed during these peak hiring periods.
+
+- Organizational Structure: The even distribution across departments suggests an equitable allocation of resources, while the level distribution aligns with typical organizational hierarchies, with more entry-level positions and fewer higher-level roles.
 
 
 ## Next Steps
+- Compensation Review: Conduct a deeper analysis of the compensation data to ensure equitable pay practices across all demographics, including gender, race, and age. Benchmarking against industry standards could provide additional insights into the company's competitive positioning in the talent market.
+- Diversity Initiatives: Develop targeted recruitment and development programs to enhance diversity, particularly in racial and ethnic representation. 
+- Recruitment Planning: Leverage the insights from hiring seasonality to streamline the recruitment process. 
+- Geographic Spread: Assess the implications of the geographic employee distribution on operational and strategic goals.
+
+Our exploratory analysis reveals a multifaceted view of the company's workforce, with insights that are crucial for fostering an equitable, diverse, and balanced work environment. The analysis presented here lays the groundwork for deeper exploration and data-driven HR decisions.
+
+
 
 
 
