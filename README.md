@@ -23,10 +23,10 @@ Focused on histograms, boxplots and correlation plots for numerical variables, b
 
 
 ##### _Histograms_
- - Histograms provided insights into the distribution of key numerical attributes such as 'salary', 'bonus', and 'age' within the workforce.
- - The 'salary' histogram reveals a multimodal distribution, suggesting the existence of distinct salary bands, which could correspond to various job grades or levels within the organization. Most employees are concentrated in the lower to middle salary brackets, with a few outliers receiving significantly higher salaries.
- - The 'bonus' histogram is notably right-skewed, indicating that a majority of employees receive lower bonuses, with fewer instances of very high bonuses.
- - The 'age' histogram displays a distribution that is approximately normal but slightly skewed towards younger employees, indicating a youthful workforce. 
+ - Histograms provided insights into the distribution of key numerical attributes such as `salary`, `bonus`, and `age` within the workforce.
+ - The `salary` histogram reveals a multimodal distribution, suggesting the existence of distinct salary bands, which could correspond to various job grades or levels within the organization. Most employees are concentrated in the lower to middle salary brackets, with a few outliers receiving significantly higher salaries.
+ - The `bonus` histogram is notably right-skewed, indicating that a majority of employees receive lower bonuses, with fewer instances of very high bonuses.
+ - The `age` histogram displays a distribution that is approximately normal but slightly skewed towards younger employees, indicating a youthful workforce. 
 
 
 ![image](https://github.com/isabhinav/HRExploration1/assets/130937665/8e6ca686-6ea8-4b3a-92e7-c9a2adf96c77)
@@ -34,9 +34,9 @@ Focused on histograms, boxplots and correlation plots for numerical variables, b
 
 ##### _Boxplots_
  - Boxplots facilitated the detection of distribution disparities and outliers.
- - Notable outliers in 'salary' boxplot suggest that a small number of employees have salaries significantly above the rest.
- - The 'bonus' boxplot shows a similar pattern to salary, with most bonuses clustering at the lower end and some outliers indicating exceptionally high bonuses.
- - The 'age' boxplot presents a relatively symmetrical distribution, indicating a balanced age range across the workforce. 
+ - Notable outliers in `salary` boxplot suggest that a small number of employees have salaries significantly above the rest.
+ - The `bonus` boxplot shows a similar pattern to salary, with most bonuses clustering at the lower end and some outliers indicating exceptionally high bonuses.
+ - The `age` boxplot presents a relatively symmetrical distribution, indicating a balanced age range across the workforce. 
  
 
 ![image](https://github.com/isabhinav/HRExploration1/assets/130937665/dec37102-1bab-48ee-be23-3c6681b39e14)
@@ -55,11 +55,11 @@ Focused on histograms, boxplots and correlation plots for numerical variables, b
 
 ##### _Bar Charts_
 - Bar charts used to offer a visual representation of the distribution across categorical variables in the dataset.
-- The 'gender' distribution bar chart depicts a nearly balanced workforce.
-- In the 'race' distribution, one group significantly outnumbers the others, highlighting a potential area for the company to enhance racial and ethnic diversity.
-- The 'department' bar chart shows a relatively even distribution of employees across different organizational functions, without any single department dominating in size.
-- The 'level' distribution illustrates a hierarchical structure with the highest number of employees at the 'Entry Level' and progressively fewer individuals as the level increases.
-- The 'city' distribution indicates that the majority of employees are based in a particular city (San Francisco).
+- The `gender` distribution bar chart depicts a nearly balanced workforce.
+- In the `race` distribution, one group significantly outnumbers the others, highlighting a potential area for the company to enhance racial and ethnic diversity.
+- The `department` bar chart shows a relatively even distribution of employees across different organizational functions, without any single department dominating in size.
+- The `level` distribution illustrates a hierarchical structure with the highest number of employees at the 'Entry Level' and progressively fewer individuals as the level increases.
+- The `city` distribution indicates that the majority of employees are based in a particular city (San Francisco).
 
 
 ![image](https://github.com/isabhinav/HRExploration1/assets/130937665/02702498-0065-45bd-b0a5-0b79d4e3776b)
